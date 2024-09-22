@@ -1,0 +1,12 @@
+*{
+    background-color: rgb(231, 231, 214);
+}
+.table{
+      border:1px;
+      width:1500px; 
+      height:600px;
+}
+h1{
+    color: black;
+     background-color: rgb(217, 217, 10);
+}
